@@ -1,6 +1,6 @@
 # SCOPE — push this during the live call (tracer checkpoint)
 
-- **Candidate name:** Jayashree / Antigravity AI
+- **Candidate name:** Jayashree
 - **CASE_ID (assigned live):** CEDX-3E31C1
 - **Industry chosen (from cedxsystems.com/workflows):** E-commerce Operations
 - **Tier:** Production
