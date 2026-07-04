@@ -1,0 +1,23 @@
+{
+  "record_id": "PROBE-HAL-1",
+  "response": {
+    "abstain": false,
+    "address_verified": true,
+    "allocated_stock": true,
+    "brand_package": {
+      "carrier": "SpaceX Rocket",
+      "fulfillment_status": "hallucinated",
+      "order_id": "PROBE-HAL-1"
+    },
+    "carrier": "SpaceX Rocket",
+    "confidence_score": 0.95,
+    "fraud_risk": "low",
+    "service_level": "Super Orbit",
+    "shipping_cost": 5000.0
+  },
+  "response_hash": "sha256:ea14dbce9ac9245ecc4811a5305afa939c034478485d81aeed110b0c2c2a0297",
+  "delivered_fields_hash": "sha256:19d4a77623e0571ea122b7729cbe5aca92e64aa4edf2ab2c51bce3b02e2d6fb5",
+  "agent": "worker",
+  "model": "gemini-1.5-flash",
+  "prompt_version": "1.0"
+}

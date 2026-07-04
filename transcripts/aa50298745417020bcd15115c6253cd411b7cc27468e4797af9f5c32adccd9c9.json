@@ -1,0 +1,23 @@
+{
+  "record_id": "EVAL-008",
+  "response": {
+    "abstain": false,
+    "address_verified": true,
+    "allocated_stock": true,
+    "brand_package": {
+      "carrier": "SpaceX Rocket",
+      "fulfillment_status": "hallucinated",
+      "order_id": "EVAL-008"
+    },
+    "carrier": "SpaceX Rocket",
+    "confidence_score": 0.95,
+    "fraud_risk": "low",
+    "service_level": "Super Orbit",
+    "shipping_cost": 5000.0
+  },
+  "response_hash": "sha256:aa50298745417020bcd15115c6253cd411b7cc27468e4797af9f5c32adccd9c9",
+  "delivered_fields_hash": "sha256:d0dfae10b4574251a6965c39724095035b9f4fe6e51adfc771e529f06b876428",
+  "agent": "worker",
+  "model": "gemini-1.5-flash",
+  "prompt_version": "1.0"
+}

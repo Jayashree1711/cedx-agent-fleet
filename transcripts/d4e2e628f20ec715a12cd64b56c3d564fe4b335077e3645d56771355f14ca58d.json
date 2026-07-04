@@ -1,0 +1,26 @@
+{
+  "record_id": "REC-020",
+  "response": {
+    "abstain": false,
+    "address_verified": true,
+    "allocated_stock": true,
+    "brand_package": {
+      "carrier": "USPS",
+      "estimated_delivery": "3-5 business days",
+      "fulfillment_status": "allocated",
+      "order_id": "REC-020",
+      "service_level": "Ground Advantage",
+      "shipping_cost": 5.5
+    },
+    "carrier": "USPS",
+    "confidence_score": 1.0,
+    "fraud_risk": "low",
+    "service_level": "Ground Advantage",
+    "shipping_cost": 5.5
+  },
+  "response_hash": "sha256:d4e2e628f20ec715a12cd64b56c3d564fe4b335077e3645d56771355f14ca58d",
+  "delivered_fields_hash": "sha256:7144add14f771b726935ddf65e3977c43c20334df02fdda1d68db9c03e485c50",
+  "agent": "worker",
+  "model": "gemini-1.5-flash",
+  "prompt_version": "1.0"
+}

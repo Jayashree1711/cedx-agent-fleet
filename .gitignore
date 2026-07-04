@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local database and run logs
+out/
+*.db
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/

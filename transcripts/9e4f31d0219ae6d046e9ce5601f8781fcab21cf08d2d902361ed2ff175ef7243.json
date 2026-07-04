@@ -1,0 +1,26 @@
+{
+  "record_id": "EVAL-002",
+  "response": {
+    "abstain": false,
+    "address_verified": true,
+    "allocated_stock": true,
+    "brand_package": {
+      "carrier": "USPS",
+      "estimated_delivery": "3-5 business days",
+      "fulfillment_status": "allocated",
+      "order_id": "EVAL-002",
+      "service_level": "Ground Advantage",
+      "shipping_cost": 5.5
+    },
+    "carrier": "USPS",
+    "confidence_score": 1.0,
+    "fraud_risk": "low",
+    "service_level": "Ground Advantage",
+    "shipping_cost": 5.5
+  },
+  "response_hash": "sha256:9e4f31d0219ae6d046e9ce5601f8781fcab21cf08d2d902361ed2ff175ef7243",
+  "delivered_fields_hash": "sha256:d46e18817bdb2b5dfe2b3109395b167b816e6c6ccbfeaff701d076c6e144fd42",
+  "agent": "worker",
+  "model": "gemini-1.5-flash",
+  "prompt_version": "1.0"
+}

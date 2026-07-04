@@ -1,0 +1,26 @@
+{
+  "record_id": "REC-003",
+  "response": {
+    "abstain": false,
+    "address_verified": true,
+    "allocated_stock": true,
+    "brand_package": {
+      "carrier": "USPS",
+      "estimated_delivery": "3-5 business days",
+      "fulfillment_status": "allocated",
+      "order_id": "REC-003",
+      "service_level": "Ground Advantage",
+      "shipping_cost": 5.5
+    },
+    "carrier": "USPS",
+    "confidence_score": 1.0,
+    "fraud_risk": "low",
+    "service_level": "Ground Advantage",
+    "shipping_cost": 5.5
+  },
+  "response_hash": "sha256:236f84729dccc5d7ed131c399f1bd9150367ec56172fc13dec5dce9b6050369d",
+  "delivered_fields_hash": "sha256:7f7006e9fbb2dd1b60c6bc5e52598cbc6dacb4ffde0a822b073df39b4d8d9fce",
+  "agent": "worker",
+  "model": "gemini-1.5-pro",
+  "prompt_version": "1.0"
+}
